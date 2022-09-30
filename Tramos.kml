@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Tramos</name>
+	<open>1</open>
+	<Style id="sn_ylw-pushpin">
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff7e231a</color>
+			<width>12.353</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffd18802</color>
+			<width>11.85</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1">
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff387109</color>
+			<width>11</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin2">
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff1427a5</color>
+			<width>12.668</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0051e6</color>
+			<width>18.066</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff1427a5</color>
+			<width>19.002</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin3">
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff7e231a</color>
+			<width>11.746</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin4">
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff42b37c</color>
+			<width>10.215</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin1">
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff5252ff</color>
+			<width>19.455</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin2">
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+			<width>20.1</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin3">
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff387109</color>
+			<width>16.5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin5">
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0051e6</color>
+			<width>12.044</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin4">
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff42b37c</color>
+			<width>15.3225</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin6">
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+			<width>13.4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin7">
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff5252ff</color>
+			<width>12.97</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin5">
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffd18802</color>
+			<width>17.775</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin6">
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff7e231a</color>
+			<width>17.619</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin7">
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff7e231a</color>
+			<width>18.5295</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Tramo_1</name>
+		<LookAt>
+			<longitude>-71.6294426210881</longitude>
+			<latitude>-33.0394416390843</latitude>
+			<altitude>0</altitude>
+			<heading>144.4188914008049</heading>
+			<tilt>45.23246653111205</tilt>
+			<range>101.388369938862</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_ylw-pushpin6</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-71.62930298810927,-33.03933296437168,0 -71.62948070193141,-33.03944691083578,0 -71.62944196633126,-33.03951273031786,0 -71.62933223372262,-33.03974260255868,0 -71.6293519318164,-33.0397511780461,0 -71.62924334982877,-33.04017888479655,0 -71.62916225481646,-33.04008606807261,0 -71.62908629856936,-33.0400453326795,0 -71.62885476327754,-33.0401994339347,0 -71.62871303585396,-33.04031092433242,0 -71.62854405062888,-33.04044848629941,0 -71.62850748797985,-33.04042387262565,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Tramo_2</name>
+		<styleUrl>#msn_ylw-pushpin3</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-71.62850748799383,-33.04042387263986,0 -71.62847584579954,-33.04040548522335,0 -71.62841924049805,-33.04040799930003,0 -71.62819724783841,-33.04045627172278,0 -71.62815848658309,-33.0404894701322,0 -71.62813493611171,-33.04054082701311,0 -71.62811410645267,-33.0405947773714,0 -71.6281088449813,-33.04064745941005,0 -71.62811685497982,-33.04075046639331,0 -71.62814608611116,-33.04084873290738,0 -71.62816993887508,-33.04091582621849,0 -71.62810184718096,-33.04099204149367,0 -71.62808465272975,-33.04101119717038,0 -71.62805265026773,-33.0410692225939,0 -71.62800845546568,-33.0411238981951,0 -71.62797571320688,-33.04116804550995,0 -71.6279375492483,-33.04121453812492,0 -71.62789818930176,-33.04126618982841,0 -71.62777083928702,-33.04140954204009,0 -71.62775185464052,-33.04144230698585,0 -71.62771933794492,-33.04147195683753,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Tramo_3</name>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-71.62772028441178,-33.04147283901575,0 -71.62766745254453,-33.04145230014688,0 -71.62763344942131,-33.04139554026505,0 -71.62759254414588,-33.04131503323305,0 -71.62751103868177,-33.04120950989361,0 -71.62738781902321,-33.04113181204933,0 -71.62732849317257,-33.04109522156426,0 -71.62725937301325,-33.04106626510944,0 -71.627206600123,-33.04110869254291,0 -71.62714315053678,-33.04116926031696,0 -71.62712362142024,-33.04120319025397,0 -71.6270625613497,-33.04127160752484,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Tramo_4</name>
+		<styleUrl>#msn_ylw-pushpin1</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-71.62706517261125,-33.04127201984622,0 -71.62703302631355,-33.04125303004552,0 -71.62702820310876,-33.04123760696428,0 -71.62693071624588,-33.04117401643308,0 -71.62685994612596,-33.04115595375242,0 -71.62680609372912,-33.04113762480301,0 -71.62673312908062,-33.0411315954435,0 -71.62664642900694,-33.04118497378346,0 -71.626495318419,-33.04132654204592,0 -71.62643282232533,-33.04139952045801,0 -71.62638653512271,-33.04146772618085,0 -71.6264694,-33.04154,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Tramo_4_Ascensor</name>
+		<styleUrl>#msn_ylw-pushpin7</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-71.62636207697153,-33.04076773688384,0 -71.6264512532542,-33.04090929611437,0 -71.62640635677946,-33.04097722762685,0 -71.62635360879266,-33.04134247332455,0 -71.62642699407893,-33.04140851349388,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Tramo_5</name>
+		<styleUrl>#msn_ylw-pushpin5</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-71.62646450113567,-33.04153534575302,0 -71.6266804,-33.0416784,0 -71.62626456956514,-33.0421751016262,0 -71.62588399209187,-33.04193500354113,0 -71.62581716268396,-33.04192477761172,0 -71.6255739191277,-33.04221495514078,0 -71.62536033171226,-33.04246589221832,0 -71.62524307989935,-33.04264487236153,0 -71.62527560886778,-33.04270553575252,0 -71.6253932,-33.0427793,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Tramo_6</name>
+		<styleUrl>#msn_ylw-pushpin0</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-71.62539206649848,-33.04277775580452,0 -71.62546571666604,-33.04276809290611,0 -71.62561220735388,-33.04277768868565,0 -71.6257629903528,-33.04277693089401,0 -71.62590205968809,-33.04279555733316,0 -71.62619909999999,-33.0428818,0 -71.62645993477219,-33.04303396749399,0 -71.6266086824501,-33.04288878173417,0 -71.62687894788189,-33.04259960732887,0 -71.626952,-33.042568,0 -71.6271665,-33.0427095,0 -71.6272233,-33.0427257,0 -71.6273066,-33.0426873,0 -71.62753519947159,-33.04242387430705,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Tramo_7</name>
+		<styleUrl>#msn_ylw-pushpin2</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-71.6275335478512,-33.0424261783623,0 -71.62758160280407,-33.04250521788546,0 -71.62785931648973,-33.04307243618558,0 -71.62791836874771,-33.04315612465895,0 -71.62793400353821,-33.04319670055558,0 -71.62786626533045,-33.04323586123398,0 -71.62785194168377,-33.04328917566126,0 -71.6277317,-33.04341,0 -71.62751100793827,-33.04362766654074,0 -71.62743222717941,-33.0437022701437,0 -71.6273231693127,-33.04377078680646,0 -71.62720321455173,-33.0438176348327,0 -71.62700729770459,-33.04384230578244,0 -71.6268189509323,-33.04383384792061,0 -71.6267313782382,-33.0438315753252,0 -71.62667633600869,-33.04384864451171,0 -71.62664652598197,-33.04387326879787,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Tramo_8</name>
+		<styleUrl>#msn_ylw-pushpin4</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-71.62664764970131,-33.0438709264134,0 -71.62658039999999,-33.0438892,0 -71.62631949999999,-33.0439957,0 -71.62629145849394,-33.04394776107038,0 -71.62624031927453,-33.04398159838559,0 -71.62621526489308,-33.04401176485478,0 -71.62615755262904,-33.04403157690387,0 -71.62605720000001,-33.0440185,0 -71.6259791,-33.0440272,0 -71.6258546,-33.0439157,0 -71.62568624263449,-33.04376488911076,0 -71.6255266199619,-33.04358036063709,0 -71.62540361079643,-33.04346666166199,0 -71.62516477756945,-33.04333614210239,0 -71.62510371002149,-33.04337458923207,0 -71.62492673836728,-33.04333788686636,0 -71.6247793454251,-33.04329470958447,0 -71.6245612489046,-33.04355354454984,0 -71.62446578559164,-33.04349325739061,0 -71.62456364465319,-33.04319992145149,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

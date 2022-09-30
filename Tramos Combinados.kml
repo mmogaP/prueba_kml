@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Tramos Combinados</name>
+	<open>1</open>
+	<StyleMap id="line-9C27B0-2744-nodesc">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line-9C27B0-2744-nodesc-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line-9C27B0-2744-nodesc-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="line-9C27B0-3131-nodesc-normal">
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+			<width>3.131</width>
+		</LineStyle>
+	</Style>
+	<Style id="line-9C27B0-2744-nodesc-normal">
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+			<width>2.744</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_rail">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_rail</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_rail</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="line-9C27B0-3131-nodesc-highlight">
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+			<width>4.6965</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_rail">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/rail.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="line-9C27B0-2744-nodesc-highlight">
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffb0279c</color>
+			<width>4.116</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line-9C27B0-3131-nodesc">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line-9C27B0-3131-nodesc-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line-9C27B0-3131-nodesc-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_rail">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/rail.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Placemark>
+		<name>Acceso Ascensor El Peral</name>
+		<LookAt>
+			<longitude>-71.6291046023232</longitude>
+			<latitude>-33.0398826991964</latitude>
+			<altitude>0</altitude>
+			<heading>0.0004059179942631474</heading>
+			<tilt>24.1970070820806</tilt>
+			<range>177.4476230996961</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_rail</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-71.62945423011189,-33.0395127237805,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Recorrido</name>
+		<styleUrl>#line-9C27B0-2744-nodesc</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-71.62930299999999,-33.039333,0 -71.629481,-33.039447,0 -71.62933200000001,-33.039743,0 -71.629352,-33.039751,0 -71.629243,-33.040179,0 -71.62916199999999,-33.040086,0 -71.629086,-33.040045,0 -71.628444,-33.0402319,0 -71.628507,-33.040424,0 -71.62847600000001,-33.040405,0 -71.62841899999999,-33.040408,0 -71.628197,-33.040456,0 -71.628158,-33.040489,0 -71.628114,-33.040595,0 -71.62810899999999,-33.040647,0 -71.628117,-33.04075,0 -71.628146,-33.040849,0 -71.62817,-33.040916,0 -71.628085,-33.041011,0 -71.62805299999999,-33.041069,0 -71.62800799999999,-33.041124,0 -71.627976,-33.041168,0 -71.627898,-33.041266,0 -71.627771,-33.04141,0 -71.627752,-33.041442,0 -71.627719,-33.041472,0 -71.627667,-33.041452,0 -71.627633,-33.041396,0 -71.627593,-33.041315,0 -71.627511,-33.04121,0 -71.62732800000001,-33.041095,0 -71.627259,-33.041066,0 -71.627143,-33.041169,0 -71.62712399999999,-33.041203,0 -71.62706300000001,-33.041272,0 -71.627033,-33.041253,0 -71.627028,-33.041238,0 -71.626931,-33.041174,0 -71.626806,-33.041138,0 -71.626733,-33.041132,0 -71.62664599999999,-33.041185,0 -71.62649500000001,-33.041327,0 -71.62643300000001,-33.0414,0 -71.62642700000001,-33.041409,0 -71.62638699999999,-33.041468,0 -71.626469,-33.04154,0 -71.62667999999999,-33.041678,0 -71.626265,-33.042175,0 -71.625884,-33.041935,0 -71.625817,-33.041925,0 -71.62536,-33.042466,0 -71.625243,-33.042645,0 -71.625276,-33.042706,0 -71.625393,-33.042779,0 -71.625466,-33.042768,0 -71.625612,-33.042778,0 -71.62576300000001,-33.042777,0 -71.625902,-33.042796,0 -71.626199,-33.042882,0 -71.62645999999999,-33.043034,0 -71.626609,-33.042889,0 -71.626879,-33.0426,0 -71.626952,-33.042568,0 -71.627166,-33.04271,0 -71.627223,-33.042726,0 -71.627307,-33.042687,0 -71.62753499999999,-33.042424,0 -71.627582,-33.042505,0 -71.627859,-33.043072,0 -71.62791799999999,-33.043156,0 -71.627934,-33.043197,0 -71.627866,-33.043236,0 -71.627852,-33.043289,0 -71.6277201,-33.0434217,0 -71.627432,-33.043702,0 -71.627323,-33.043771,0 -71.62720299999999,-33.043818,0 -71.62700700000001,-33.043842,0 -71.62673100000001,-33.043832,0 -71.626676,-33.043849,0 -71.62664700000001,-33.043873,0 -71.62658,-33.043889,0 -71.62632000000001,-33.043996,0 -71.62629099999999,-33.043948,0 -71.62624,-33.043982,0 -71.626215,-33.044012,0 -71.626158,-33.044032,0 -71.626057,-33.044018,0 -71.625979,-33.044027,0 -71.625686,-33.043765,0 -71.62552700000001,-33.04358,0 -71.625404,-33.043467,0 -71.625165,-33.043336,0 -71.62510399999999,-33.043375,0 -71.624927,-33.043338,0 -71.624779,-33.043295,0 -71.624561,-33.043554,0 -71.624466,-33.043493,0 -71.62456400000001,-33.0432,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Acceso Ascensor Concepción</name>
+		<LookAt>
+			<longitude>-71.62611370267098</longitude>
+			<latitude>-33.04105049630109</latitude>
+			<altitude>0</altitude>
+			<heading>-0.000977695144419794</heading>
+			<tilt>27.57509739038124</tilt>
+			<range>151.5688315489475</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_rail</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-71.6263627514755,-33.0407684744836,2.009999999291884</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Recorrido Ascensor</name>
+		<styleUrl>#line-9C27B0-3131-nodesc</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-71.626362,-33.040768,0 -71.62644299999999,-33.040918,0 -71.626406,-33.040977,0 -71.62635450000001,-33.041336,0 -71.62643300000001,-33.0414,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>Acceso Ascensor Reina Victoria</name>
+		<LookAt>
+			<longitude>-71.62648627303459</longitude>
+			<latitude>-33.04410664193914</latitude>
+			<altitude>0</altitude>
+			<heading>-0.001021658933307956</heading>
+			<tilt>24.19700708208054</tilt>
+			<range>177.4476231010128</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_rail</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-71.62621664755221,-33.04403388424538,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
