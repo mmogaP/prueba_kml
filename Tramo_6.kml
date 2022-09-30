@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Tramo_6.kml</name>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin1">
+		<LineStyle>
+			<color>ff387109</color>
+			<width>11</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin3">
+		<LineStyle>
+			<color>ff387109</color>
+			<width>16.5</width>
+		</LineStyle>
+	</Style>
+	<Placemark>
+		<name>Tramo_6</name>
+		<styleUrl>#msn_ylw-pushpin0</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-71.62539206649848,-33.04277775580452,0 -71.62546571666604,-33.04276809290611,0 -71.62561220735388,-33.04277768868565,0 -71.6257629903528,-33.04277693089401,0 -71.62590205968809,-33.04279555733316,0 -71.62619909999999,-33.0428818,0 -71.62645993477219,-33.04303396749399,0 -71.6266086824501,-33.04288878173417,0 -71.62687894788189,-33.04259960732887,0 -71.626952,-33.042568,0 -71.6271665,-33.0427095,0 -71.6272233,-33.0427257,0 -71.6273066,-33.0426873,0 -71.62753519947159,-33.04242387430705,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Tramo_4_Ascensor.kml</name>
+	<Style id="sh_ylw-pushpin6">
+		<LineStyle>
+			<color>ff7e231a</color>
+			<width>17.619</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin3">
+		<LineStyle>
+			<color>ff7e231a</color>
+			<width>11.746</width>
+		</LineStyle>
+	</Style>
+	<Placemark>
+		<name>Tramo_4_Ascensor</name>
+		<styleUrl>#msn_ylw-pushpin7</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-71.62636207697153,-33.04076773688384,0 -71.6264512532542,-33.04090929611437,0 -71.62640635677946,-33.04097722762685,0 -71.62635360879266,-33.04134247332455,0 -71.62642699407893,-33.04140851349388,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>
